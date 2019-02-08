@@ -1,0 +1,15 @@
+{
+    "_id": "5c5adeba60764cbc6ac5a22d",
+    "shortid": "Ske32R8OVN",
+    "name": "Report 1",
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "workspaceId": "5c5ab7e160764c011fc5a18c",
+    "modificationDate": {
+        "$$date": 1549640306451
+    },
+    "$entitySet": "templates"
+}

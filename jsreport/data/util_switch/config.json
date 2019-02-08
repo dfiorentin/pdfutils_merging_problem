@@ -1,0 +1,11 @@
+{
+    "_id": "5c5adf0460764c833bc5a232",
+    "shortid": "HJg5b1P_E4",
+    "name": "util_switch",
+    "workspaceId": "5c5ab7e160764c011fc5a18c",
+    "creationDate": "2019-02-06T13:20:04.208Z",
+    "modificationDate": {
+        "$$date": 1549640306458
+    },
+    "$entitySet": "scripts"
+}

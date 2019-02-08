@@ -1,0 +1,15 @@
+{
+    "_id": "5c5adec560764c135ec5a22e",
+    "shortid": "BkgPpR8u44",
+    "name": "Report 2",
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "workspaceId": "5c5ab7e160764c011fc5a18c",
+    "modificationDate": {
+        "$$date": 1549640306454
+    },
+    "$entitySet": "templates"
+}

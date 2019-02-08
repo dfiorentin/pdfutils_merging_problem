@@ -1,0 +1,30 @@
+{
+  "certificate": {
+    "key": "certificates/jsreport.net.key",
+    "cert": "certificates/jsreport.net.cert"
+  },
+  "httpPort": 3001,
+  "httpsPort": null,
+  "blobStorage": {
+    "provider": "fs"
+  },
+  "allowLocalFilesAccess": false,
+  "store": {
+    "provider": "fs"
+  },
+  "extensions": {
+    "authentication": {
+      "cookieSession": {
+        "secret": "dasd321as56d1sd5s61vdv32"
+      },
+      "admin": {
+        "username": "user",
+        "password": "password"
+      }
+    },
+    "scripts": {
+      "allowedModules": "*",
+      "timeout": 1800000
+    }
+  }
+}

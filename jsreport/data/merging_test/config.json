@@ -1,0 +1,22 @@
+{
+    "_id": "5c5adea560764cf15fc5a22c",
+    "shortid": "SJg9jALOVE",
+    "name": "merging_test",
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "workspaceId": "5c5ab7e160764c011fc5a18c",
+    "modificationDate": {
+        "$$date": 1549640306442
+    },
+    "pdfOperations": [],
+    "scripts": [
+        {
+            "shortid": "HJg5b1P_E4"
+        }
+    ],
+    "data": null,
+    "$entitySet": "templates"
+}
